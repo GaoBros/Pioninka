@@ -1,0 +1,14 @@
+C:\Users\dani1\source\repos\Pioninka\bin\Debug\net6.0\Pioninka.exe
+C:\Users\dani1\source\repos\Pioninka\bin\Debug\net6.0\Pioninka.deps.json
+C:\Users\dani1\source\repos\Pioninka\bin\Debug\net6.0\Pioninka.runtimeconfig.json
+C:\Users\dani1\source\repos\Pioninka\bin\Debug\net6.0\Pioninka.dll
+C:\Users\dani1\source\repos\Pioninka\bin\Debug\net6.0\Pioninka.pdb
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.AssemblyInfoInputs.cache
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.AssemblyInfo.cs
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.csproj.CoreCompileInputs.cache
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.dll
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\refint\Pioninka.dll
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.pdb
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\Pioninka.genruntimeconfig.cache
+C:\Users\dani1\source\repos\Pioninka\obj\Debug\net6.0\ref\Pioninka.dll
